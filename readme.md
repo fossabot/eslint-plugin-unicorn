@@ -1,4 +1,5 @@
 # eslint-plugin-unicorn [![Build Status](https://github.com/sindresorhus/eslint-plugin-unicorn/workflows/CI/badge.svg?branch=master)](https://github.com/sindresorhus/eslint-plugin-unicorn/actions?query=branch%3Amaster+workflow%3ACI) [![Coverage Status](https://codecov.io/gh/sindresorhus/eslint-plugin-unicorn/branch/master/graph/badge.svg)](https://codecov.io/gh/sindresorhus/eslint-plugin-unicorn/branch/master)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhimynameisdave%2Feslint-plugin-unicorn.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhimynameisdave%2Feslint-plugin-unicorn?ref=badge_shield)
 
 <img src="https://cloud.githubusercontent.com/assets/170270/18659176/1cc373d0-7f33-11e6-890f-0ba35362ee7e.jpg" width="180" align="right">
 
@@ -183,3 +184,7 @@ See the [ESLint docs](https://eslint.org/docs/user-guide/configuring#extending-c
 
 - [Jeroen Engels](https://github.com/jfmengels)
 - [Sam Verschueren](https://github.com/SamVerschueren)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhimynameisdave%2Feslint-plugin-unicorn.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhimynameisdave%2Feslint-plugin-unicorn?ref=badge_large)
